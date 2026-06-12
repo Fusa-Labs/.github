@@ -1,13 +1,12 @@
 <div align="center">
   <img src="./banner.png" alt="Fusa Labs Official Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
   
-  # Fusa Labs
   ### *Integrating Intelligence to Scale Business*
 </div>
 
 ---
 
-## 🚀 Sobre Nosotros
+## 🚀 About us
 Somos una **Agencia de Software e IA** radicada en Córdoba, Argentina. Somos arquitectos de ecosistemas digitales. 
 
 Nuestra filosofía: **transformar el caos operativo en sistemas escalables** integrando Inteligencia Artificial, automatizaciones y software a medida. Construyendo herramientas que traccionan ventas y optimizan recursos.
