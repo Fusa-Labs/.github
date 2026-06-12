@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI3MGRkMTEyMTE2MTExMTEyMTEzMTE0MTE1MTE2MTE3MTE4MTE5JmN0PWc/3o7aD2saalEvx82vUA/giphy.gif" alt="Fusa Labs Cyberpunk" width="200" style="border-radius: 10px; margin-bottom: 20px;" />
+  <img src="./banner.png" alt="Fusa Labs Official Banner" width="400" style="border-radius: 10px; margin-bottom: 20px;" />
   
   # Fusa Labs
   ### *Integrating Intelligence to Scale Business*
