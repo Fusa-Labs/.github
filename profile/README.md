@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Fusa Labs Official Banner" width="400" style="border-radius: 10px; margin-bottom: 20px;" />
+  <img src="./banner.png" alt="Fusa Labs Official Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
   
   # Fusa Labs
   ### *Integrating Intelligence to Scale Business*
