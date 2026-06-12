@@ -1,7 +1,6 @@
 <div align="center">
   <img src="./banner.png" alt="Fusa Labs Official Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
   
-  ### *Integrating Intelligence to Scale Business*
 </div>
 
 ---
