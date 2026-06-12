@@ -8,18 +8,17 @@
 ---
 
 ## 🚀 Sobre Nosotros
-Somos un **Venture Builder Tecnológico** radicado en Córdoba, Argentina. No somos una agencia tradicional ni una software factory más; somos arquitectos de ecosistemas digitales. 
+Somos una **Agencia de Software e IA** radicada en Córdoba, Argentina. Somos arquitectos de ecosistemas digitales. 
 
-Nuestra filosofía es clara: **transformar el caos operativo en sistemas escalables** integrando Inteligencia Artificial, automatizaciones y software a medida. No escribimos código porque sí, construimos herramientas que traccionan ventas y optimizan recursos.
+Nuestra filosofía: **transformar el caos operativo en sistemas escalables** integrando Inteligencia Artificial, automatizaciones y software a medida. Construyendo herramientas que traccionan ventas y optimizan recursos.
 
 ## 🏗️ Nuestros Pilares
 
 ### 🧠 AI & Automation
-Desarrollamos agentes autónomos y flujos de trabajo inteligentes (n8n, integraciones LLM) para que las empresas operen a la velocidad del software, no del esfuerzo humano.
-> *"La IA no reemplaza humanos, reemplaza tareas que los humanos no deberían estar haciendo."*
+Desarrollamos agentes autónomos y flujos de trabajo inteligentes para que las empresas operen a la velocidad del software, no del esfuerzo humano.
 
 ### 💻 Software Development
-Arquitecturas sólidas, escalables y orientadas al negocio. Desde CRMs personalizados como **NEXO CRM** hasta plataformas completas. Utilizamos un stack moderno (NextJS, React, TypeScript, Python) y metodologías orientadas a producto.
+Arquitecturas sólidas, escalables y orientadas al negocio. Desde CRMs personalizados hasta ecosistemas y plataformas completamente funcionales. Utilizamos un stack moderno (NextJS, React, TypeScript, Python) y metodologías orientadas a producto.
 
 ### 📈 Branding & Marketing (GTM)
 Un producto excelente sin distribución es código muerto. Diseñamos identidades visuales contundentes y estrategias Go-To-Market (GTM) para que cada solución tecnológica tenga un impacto real y comercial en el mercado.
@@ -37,13 +36,15 @@ Un producto excelente sin distribución es código muerto. Diseñamos identidade
   </a> 
 </p>
 
-## 👥 Equipo Core
-- **Jesús Fleitas** - *Founder, Product Manager & GTM Strategist*
-- **Facundo** - *Tech Lead / Developer*
-- **Fabio** - *Developer*
-- **Pedro** - *Developer*
-- **Adrián** - *Developer*
-- **Lisandro** - *Marketing / Diseño*
+## 👥 Founders
+- **Jesús Fleitas** - *Product Manager & Marketing Strategist*
+- **Pedro** - *Scrum Master*
+- **Facundo** - *Tech Lead & Full Stack Developer*
+- **Fabio** - *AI Engineer & Full Stack Developer*
+- **Adrián** - *Developer & Marketing Strategist*
+- **Ezequiel** - *Electromechanical Engineer*
+- **Lisandro** - *Sales & RRHH*
+- **Patricio** - *Accountant & Foreing Trade*
 
 <br>
 
