@@ -48,5 +48,6 @@ Un producto excelente sin distribución es código muerto. Diseñamos identidade
 
 <div align="center">
   <i>"No desarrollamos funciones. Desarrollamos ventajas competitivas."</i><br><br>
-  <b><a href="https://fusalabs.com">www.fusalabs.com</a></b>
+  <b><a href="https://fusalabs.com">www.fusalabs.com</a></b><br><br>
+  <img src="./footer.gif" alt="Fusa Labs Footer" width="100%" style="border-radius: 10px;" />
 </div>
