@@ -1,0 +1,53 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI3MGRkMTEyMTE2MTExMTEyMTEzMTE0MTE1MTE2MTE3MTE4MTE5JmN0PWc/3o7aD2saalEvx82vUA/giphy.gif" alt="Fusa Labs Cyberpunk" width="200" style="border-radius: 10px; margin-bottom: 20px;" />
+  
+  # Fusa Labs
+  ### *Integrating Intelligence to Scale Business*
+</div>
+
+---
+
+## 🚀 Sobre Nosotros
+Somos un **Venture Builder Tecnológico** radicado en Córdoba, Argentina. No somos una agencia tradicional ni una software factory más; somos arquitectos de ecosistemas digitales. 
+
+Nuestra filosofía es clara: **transformar el caos operativo en sistemas escalables** integrando Inteligencia Artificial, automatizaciones y software a medida. No escribimos código porque sí, construimos herramientas que traccionan ventas y optimizan recursos.
+
+## 🏗️ Nuestros Pilares
+
+### 🧠 AI & Automation
+Desarrollamos agentes autónomos y flujos de trabajo inteligentes (n8n, integraciones LLM) para que las empresas operen a la velocidad del software, no del esfuerzo humano.
+> *"La IA no reemplaza humanos, reemplaza tareas que los humanos no deberían estar haciendo."*
+
+### 💻 Software Development
+Arquitecturas sólidas, escalables y orientadas al negocio. Desde CRMs personalizados como **NEXO CRM** hasta plataformas completas. Utilizamos un stack moderno (NextJS, React, TypeScript, Python) y metodologías orientadas a producto.
+
+### 📈 Branding & Marketing (GTM)
+Un producto excelente sin distribución es código muerto. Diseñamos identidades visuales contundentes y estrategias Go-To-Market (GTM) para que cada solución tecnológica tenga un impacto real y comercial en el mercado.
+
+---
+
+## 🛠️ Stack Tecnológico Core
+<p align="center"> 
+  <a href="https://skillicons.dev" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,nodejs" alt="Code" height="40"/> 
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,aws" alt="Infrastructure" height="40"/> 
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" alt="Design" height="40"/> 
+  </a> 
+</p>
+
+## 👥 Equipo Core
+- **Jesús Fleitas** - *Founder, Product Manager & GTM Strategist*
+- **Facundo** - *Tech Lead / Developer*
+- **Fabio** - *Developer*
+- **Pedro** - *Developer*
+- **Adrián** - *Developer*
+- **Lisandro** - *Marketing / Diseño*
+
+<br>
+
+<div align="center">
+  <i>"No desarrollamos funciones. Desarrollamos ventajas competitivas."</i><br><br>
+  <b><a href="https://fusalabs.com">www.fusalabs.com</a></b>
+</div>
